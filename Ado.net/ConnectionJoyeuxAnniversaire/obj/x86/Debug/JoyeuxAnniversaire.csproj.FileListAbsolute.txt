@@ -1,0 +1,10 @@
+U:\SIO2\SLAM4\Ado.net\ConnectionJoyeuxAnniversaire\obj\x86\Debug\JoyeuxAnniversaire.csprojResolveAssemblyReference.cache
+U:\SIO2\SLAM4\Ado.net\ConnectionJoyeuxAnniversaire\bin\Debug\ConnectionJoyeuxAnniversaire.exe
+U:\SIO2\SLAM4\Ado.net\ConnectionJoyeuxAnniversaire\bin\Debug\ConnectionJoyeuxAnniversaire.pdb
+U:\SIO2\SLAM4\Ado.net\ConnectionJoyeuxAnniversaire\obj\x86\Debug\ConnectionJoyeuxAnniversaire.exe
+U:\SIO2\SLAM4\Ado.net\ConnectionJoyeuxAnniversaire\obj\x86\Debug\ConnectionJoyeuxAnniversaire.pdb
+C:\Ado.net\ConnectionJoyeuxAnniversaire\obj\x86\Debug\ConnectionJoyeuxAnniversaire.exe
+C:\Ado.net\ConnectionJoyeuxAnniversaire\obj\x86\Debug\ConnectionJoyeuxAnniversaire.pdb
+C:\Ado.net\ConnectionJoyeuxAnniversaire\bin\Debug\ConnectionJoyeuxAnniversaire.exe
+C:\Ado.net\ConnectionJoyeuxAnniversaire\bin\Debug\ConnectionJoyeuxAnniversaire.pdb
+C:\Ado.net\ConnectionJoyeuxAnniversaire\obj\x86\Debug\JoyeuxAnniversaire.csprojResolveAssemblyReference.cache
